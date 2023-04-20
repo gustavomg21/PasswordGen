@@ -22,7 +22,7 @@ N/A
 
 ## Usage
 
-To use this website open it on a webroser and scroll over the different sections and links
+To use this website click on generate a password and answer the prompts
 
 ## Credits
 
